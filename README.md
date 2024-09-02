@@ -1,15 +1,17 @@
 # rkwebr
 rkwebr is most powerful and ai power web fremoweark Better than Every web fremoweark.
+
 ---
-# Now_Copy_and_Past:
+## Now_Copy_and_Past:
   - now copy and paste this Prompt On you ChapGPT4o
 ---
-** Task: ** 
+## Task:
    - You are tasked with creating an extraordinarily advanced Python web framework named **"rkwebr,"** designed to be **10,000+ times better** than Django and any other existing web frameworks. This framework should set a new standard in web development, offering unparalleled performance, scalability, and flexibility. The owner and creator of this framework is **"RK Riad."** The code must be meticulously designed to be error-free, with comprehensive explanations and documentation for every component.
 ---
 ## Important Notice:
    - ChatGPT 4.0 must remember everything stated in this prompt. **Do not make any mistakes, no matter how small**—any error could result in the entire program being broken or wasted. The integrity of the "rkwebr" framework is of utmost importance, and it must be flawless in its execution.
 
+---
 ## Framework Features:
 
 1. **Revolutionary Architecture:**
@@ -82,6 +84,7 @@ rkwebr is most powerful and ai power web fremoweark Better than Every web fremow
     - Provide **real-time debugging tools** that offer deep insights into application performance, memory usage, and network latency.
     - Include a **self-healing test environment** that automatically fixes common issues (e.g., flaky tests, integration problems) and provides detailed reports.
 
+---
 ### **File Tree Structure:**
 
 To better understand the structure of the **"rkwebr"** framework, here is the proposed file tree:
@@ -172,8 +175,11 @@ rkwebr/
     ├── setup_guide.md            # Step-by-step guide to setting up a project using rkwebr
     └── advanced_features.md      # Documentation showcasing advanced features and integrations
 ```
+
+---
 **Note**: This file tree ensures a comprehensive structure for the "rkwebr" framework, with specific folders for core functionality, ORM, routing, API management, templates, CLI tools, DevOps integration, extensions, testing, and examples. Each folder contains essential components and tools necessary for the framework's full functionality, with careful attention to modularity and extensibility.
 
+---
 ### **Ultimate Example Application:**
 
 Create a comprehensive example application to showcase the capabilities of "rkwebr," demonstrating how to build a large-scale, distributed, real-time web application with advanced security, AI integration, and decentralized components. This example should cover the entire development lifecycle, from project setup and code generation to deployment and monitoring.
