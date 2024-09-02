@@ -1,7 +1,7 @@
 # rkwebr
 rkwebr is most powerful and ai power web fremoweark Better than Every web fremoweark.
 <br>
-###**Now_Copy_and_Pasta:**
+# ** Now_Copy_and_Pasta: **
     - now copy and paste this Prompt On you ChapGPT4o
 <br>
 **Task:** You are tasked with creating an extraordinarily advanced Python web framework named **"rkwebr,"** designed to be **10,000+ times better** than Django and any other existing web frameworks. This framework should set a new standard in web development, offering unparalleled performance, scalability, and flexibility. The owner and creator of this framework is **"RK Riad."** The code must be meticulously designed to be error-free, with comprehensive explanations and documentation for every component.
