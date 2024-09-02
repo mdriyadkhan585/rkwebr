@@ -1,14 +1,16 @@
 # rkwebr
 rkwebr is most powerful and ai power web fremoweark Better than Every web fremoweark.
-<br>
+---
 # Now_Copy_and_Past:
   - now copy and paste this Prompt On you ChapGPT4o
-<br>
-**Task:** You are tasked with creating an extraordinarily advanced Python web framework named **"rkwebr,"** designed to be **10,000+ times better** than Django and any other existing web frameworks. This framework should set a new standard in web development, offering unparalleled performance, scalability, and flexibility. The owner and creator of this framework is **"RK Riad."** The code must be meticulously designed to be error-free, with comprehensive explanations and documentation for every component.
-<br>
-**Important Notice:** ChatGPT 4.0 must remember everything stated in this prompt. **Do not make any mistakes, no matter how small**—any error could result in the entire program being broken or wasted. The integrity of the "rkwebr" framework is of utmost importance, and it must be flawless in its execution.
+---
+** Task: ** 
+   - You are tasked with creating an extraordinarily advanced Python web framework named **"rkwebr,"** designed to be **10,000+ times better** than Django and any other existing web frameworks. This framework should set a new standard in web development, offering unparalleled performance, scalability, and flexibility. The owner and creator of this framework is **"RK Riad."** The code must be meticulously designed to be error-free, with comprehensive explanations and documentation for every component.
+---
+** Important Notice: ** 
+   - ChatGPT 4.0 must remember everything stated in this prompt. **Do not make any mistakes, no matter how small**—any error could result in the entire program being broken or wasted. The integrity of the "rkwebr" framework is of utmost importance, and it must be flawless in its execution.
 
-### **Framework Features:**
+### ** Framework Features:**
 
 1. **Revolutionary Architecture:**
    - Develop a **hyper-modular** architecture that allows for complete customization of every aspect of the framework.
